@@ -2,4 +2,4 @@
 #Name: Soumik Dutta
 #ID: 1930170
 #link: https://soumikctg.github.io/webassignment2/
-https://github.com/soumikctg/webassignment2/blob/main/webassignment2.png
+![webassignment2](https://github.com/soumikctg/webassignment2/assets/60010285/bef32c09-e181-4b0d-8750-9838d5816a8c)
